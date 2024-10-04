@@ -1,0 +1,35 @@
+/* footer.css */
+.card-header ,.card-footer,.cardf{
+    background-color: rgb(31, 31, 31);
+    color: #fff;
+  font-family: sans-serif;
+}
+.social-icons .bi-instagram {
+  
+  
+    color:#f7365a;
+    font-size: 1.5rem;
+  }
+  
+  .social-icons .bi-facebook {
+    color: #1877F2;
+    font-size: 1.5rem;
+  }
+  
+  .social-icons .bi-telegram {
+    color: #0088cc;
+    font-size: 1.5rem;
+  }
+  
+  .social-icons .bi-whatsapp {
+    color: #25D366;
+    font-size: 1.5rem;
+  }
+  
+  .tooltip-inner {
+    background-color: #405DE6;
+    color: #fff;
+    font-size: 1rem;
+  }
+  
+  

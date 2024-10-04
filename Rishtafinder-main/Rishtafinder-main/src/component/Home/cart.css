@@ -1,0 +1,22 @@
+.maincart{
+
+    max-width: 90%;;
+    display: flex;
+    position: sticky;
+    padding: 50px 10px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+  
+}
+.centered-card {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px; 
+    margin-right: 100px;
+    border-radius: 5px;
+  }
+  .mycard{
+    border-radius: 15px;
+  }
+  

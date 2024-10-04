@@ -1,0 +1,51 @@
+
+  /* benefit.css */
+.benefit-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .benefit-item {
+   font: 1em sans-serif;
+    align-items: center;
+    cursor: pointer;
+    font-size: larger;
+    padding: 2x;
+
+    border-radius: 5px;
+  }
+  
+  .benefit-icon {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    color: rgb(19, 237, 110);
+  }
+  
+  .panel {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin-left: 15%;
+  
+  }
+  .benefit-item{
+    width: 90%;
+    height: 10%;
+  }
+  .benefit-item svg {
+    display: flex;
+    place-content: left;
+  
+    margin-left: auto;
+  }
+  .horizontal-line {
+     
+    width: 80%;
+    margin-left: 10%;
+   margin-top: 0;
+   padding: 0 0;
+    border: 1px solid #ccc;
+  }
+  

@@ -1,0 +1,39 @@
+.home{
+  max-width: 85%;;
+  display: flex;
+  position: sticky;
+  padding: 50px 10px;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+}
+.carousel{
+     height:auto;
+}
+.card-body {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .card-title, h1, h2 {
+    color: #007BFF; /* Customize the color */
+  }
+  li{
+    list-style: none;
+  }
+ 
+
+.card-title {
+  color: #007BFF; /* Customize the color */
+}
+
+.btn-custom {
+  background-color: #35a7f8; /* Customize the button color */
+  color: #fff; /* Customize the text color */
+  border: none;
+ 
+}
+
+.btn-custom:hover {
+  background-color: #2991ff; /* Customize the button color on hover */
+}
